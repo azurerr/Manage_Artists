@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\AutoLogon\Documents\05. Semester 5(2021 Winter)\02 WEB524\Assignment\Assignment5\Assignment5\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\AutoLogon\Documents\05. Semester 5(2021 Winter)\02 WEB524\Assignment\Assignment5\Assignment5\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\AutoLogon\Documents\05. Semester 5(2021 Winter)\02 WEB524\Assignment\Assignment5\Assignment5\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
